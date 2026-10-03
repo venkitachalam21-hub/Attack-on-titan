@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Siftcraft.aternos.me,
+    "ip": "siftcraft.aternos.me",
     "port": 54690,
     "version": "1.20.1",
     "try-creative": false
